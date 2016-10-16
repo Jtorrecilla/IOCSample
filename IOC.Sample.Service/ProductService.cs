@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 
 namespace IOC.Sample.Service
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
-        private readonly ProductRepository repo;
-        public ProductService()
+        private readonly IProductRepository repo;
+        public ProductService(IProductRepository repository)
         {
-            repo = new ProductRepository();
+            repo = repository;
         }
 
         public IEnumerable<Product> GetProducts()

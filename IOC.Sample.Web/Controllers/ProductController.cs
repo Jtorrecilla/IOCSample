@@ -9,10 +9,10 @@ namespace IOC.Sample.Web.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly ProductService productService;
-        public ProductController()
+        private readonly IProductService productService;
+        public ProductController(IProductService service)
         {
-            productService = new ProductService();
+            productService = service;
         }
 
         // GET: Product

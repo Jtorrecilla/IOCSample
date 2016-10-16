@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IOC.Sample.Web.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,6 +13,7 @@ namespace IOC.Sample.Web
     {
         protected void Application_Start()
         {
+            IocConfiguration.Configure();
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

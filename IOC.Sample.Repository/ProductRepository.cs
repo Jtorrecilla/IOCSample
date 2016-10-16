@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IOC.Sample.Repository
 {
-    public class ProductRepository
+    public class ProductRepository : IProductRepository
     {
         public IEnumerable<Product> GetAll()
         {
