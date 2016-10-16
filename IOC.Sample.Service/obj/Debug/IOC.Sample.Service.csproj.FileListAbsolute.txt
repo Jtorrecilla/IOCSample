@@ -1,9 +1,0 @@
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\bin\Debug\IOC.Sample.Service.dll
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\bin\Debug\IOC.Sample.Service.pdb
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\bin\Debug\IOC.Sample.Model.dll
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\bin\Debug\IOC.Sample.Repository.dll
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\bin\Debug\IOC.Sample.Model.pdb
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\bin\Debug\IOC.Sample.Repository.pdb
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\obj\Debug\IOC.Sample.Service.csprojResolveAssemblyReference.cache
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\obj\Debug\IOC.Sample.Service.dll
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Service\obj\Debug\IOC.Sample.Service.pdb

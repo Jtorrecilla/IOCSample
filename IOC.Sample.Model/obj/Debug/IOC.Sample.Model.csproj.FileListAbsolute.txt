@@ -1,5 +1,0 @@
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Model\bin\Debug\IOC.Sample.Model.dll
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Model\bin\Debug\IOC.Sample.Model.pdb
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Model\obj\Debug\IOC.Sample.Model.csprojResolveAssemblyReference.cache
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Model\obj\Debug\IOC.Sample.Model.dll
-c:\users\javiertorrecillapuer\documents\visual studio 2015\Projects\IOC.Sample\IOC.Sample.Model\obj\Debug\IOC.Sample.Model.pdb
